@@ -1,0 +1,7 @@
+imageio==2.5.0
+matplotlib==3.7.2
+numba==0.57.1
+numpy==1.21.6
+pyelastica==0.2.2.post2
+torch==1.7.1+cu110
+tqdm==4.66.1
